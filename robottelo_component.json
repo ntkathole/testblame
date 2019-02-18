@@ -1,5 +1,4 @@
 {
-    "Nikhil Kathole" : ["tests/foreman/cli/test_auth.py","tests/foreman/cli/test_ldapauthsource.py","tests/foreman/ui_airgun/test_ldap_authentication.py"],
     "Sanket Jagtap" : ["tests/foreman/cli/test_computeresource_vmware.py", "tests/foreman/cli/test_oscap.py","tests/foreman/cli/test_oscap_tailoringfiles.py","tests/foreman/longrun/test_oscap.py","tests/foreman/ui_airgun/test_oscapcontent.py","tests/foreman/ui_airgun/test_oscappolicy.py"],
     "Jitendra Yejare" : ["tests/foreman/api/test_contentmanagement.py", "tests/foreman/api/test_discoveredhost.py", "tests/foreman/api/test_discoveryrule.py", "tests/foreman/api/test_template.py", "tests/foreman/api/test_template_combination.py", "tests/foreman/cli/test_discoveredhost.py", "tests/foreman/cli/test_discoveryrule.py", "tests/foreman/cli/test_template.py", "tests/foreman/ui_airgun/test_discoveredhost.py", "tests/foreman/ui_airgun/test_discoveryrule.py"],
     "Ales Dujicek" : ["tests/foreman/api/test_docker.py", "tests/foreman/cli/test_docker.py", "tests/foreman/cli/test_ostreebranch.py", "tests/foreman/ui_airgun/test_container.py", "tests/foreman/ui_airgun/test_containerimagetag.py"],
